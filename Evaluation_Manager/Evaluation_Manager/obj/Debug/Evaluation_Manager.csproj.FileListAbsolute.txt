@@ -12,3 +12,4 @@ C:\Users\Sebastian\Desktop\Power poinr,Word and more\PI\Eval2\Evaluation_Manager
 C:\Users\Sebastian\Desktop\Power poinr,Word and more\PI\Eval2\Evaluation_Manager\Evaluation_Manager\bin\Debug\DBLayer.dll
 C:\Users\Sebastian\Desktop\Power poinr,Word and more\PI\Eval2\Evaluation_Manager\Evaluation_Manager\obj\Debug\Evaluation_Manager.FrmStudents.resources
 C:\Users\Sebastian\Desktop\Power poinr,Word and more\PI\Eval2\Evaluation_Manager\Evaluation_Manager\obj\Debug\Evaluation_Manager.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Power poinr,Word and more\PI\Eval2\Evaluation_Manager\Evaluation_Manager\obj\Debug\Evaluation_Manager.FrmEvaluation.resources
