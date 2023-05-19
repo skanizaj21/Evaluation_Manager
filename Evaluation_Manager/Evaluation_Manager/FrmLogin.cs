@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Evaluation_Manager
@@ -36,8 +37,10 @@ namespace Evaluation_Manager
             {
                 if (txtUsername.Text == username && txtPassword.Text == password)
                 {
-                    MessageBox.Show("Dobrodošli!", "Prijavljeni ste",
-                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    FrmStudents frmStudents = new FrmStudents();
+                    Hide();
+                    frmStudents.ShowDialog();
+                    Close();
                 }
                 else
                 {
