@@ -76,6 +76,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reposetories\ActivityRepository.cs" />
+    <Compile Include="Reposetories\EvaluationRepository.cs" />
     <Compile Include="Reposetories\StudentRepository.cs" />
     <Compile Include="Reposetories\TeacherRepository.cs" />
     <EmbeddedResource Include="FrmEvaluation.resx">
